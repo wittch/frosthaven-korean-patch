@@ -1,0 +1,28 @@
+{
+  "game_launched": false,
+  "installer_checks": [
+    "compatible read-only preflight",
+    "install",
+    "installed payload hashes",
+    "duplicate install rejection",
+    "uninstall",
+    "unowned file preservation",
+    "original game hashes unchanged",
+    "reinstall with preserved unowned text",
+    "mod conflict rejection",
+    "corrupt payload rejection before writes",
+    "path traversal rejection"
+  ],
+  "overlay_checks": [
+    "atomic validation before any source mutation",
+    "English hash mismatch rejects entire update",
+    "only Korean values change",
+    "missing Korean language leaves source unchanged",
+    "UTF-8 and multiline data round trip",
+    "malformed TSV record rejection"
+  ],
+  "hangul_syllables_in_tmp_font": 11172,
+  "source_and_korean_hash_review_current": true,
+  "missing": 0,
+  "structural_issues": 0
+}

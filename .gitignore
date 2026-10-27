@@ -1,0 +1,13 @@
+# Release artifacts are uploaded as GitHub Release assets, not Git history.
+/dist/
+*.zip
+*.zip.sha256
+*.gguf
+*.safetensors
+*.assets
+*.resS
+*.exe
+*.dll
+.env
+.env.*
+__pycache__/

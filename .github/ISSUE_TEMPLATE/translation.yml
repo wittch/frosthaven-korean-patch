@@ -1,0 +1,34 @@
+name: 오역·용어·화면 표시 제보
+description: 번역이나 화면에서 잘리는 문구를 알려주세요.
+title: "[번역] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 패치 버전과 게임 빌드
+      placeholder: "0.1.2-alpha / Steam build 26217927"
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: 화면 위치
+      description: 메뉴·아이템·능력·시나리오 번호 등을 적어주세요. 제목에는 스포일러를 쓰지 마세요.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 현재 번역과 문제점
+      description: 가능하면 영문 원문과 제안 표현도 적어주세요. 스포일러는 아래 접힌 영역 안에 적어주세요.
+      value: |
+        <details>
+        <summary>번역 내용 보기 — 스포일러 주의</summary>
+
+        현재 번역:
+        영문 원문(가능한 경우):
+        문제점 또는 제안:
+
+        </details>
+    validations:
+      required: true

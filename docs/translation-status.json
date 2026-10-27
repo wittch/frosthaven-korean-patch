@@ -1,0 +1,27 @@
+{
+  "version": "0.1.2-alpha",
+  "game_build": "26217927",
+  "total_entries": 14003,
+  "nonempty_source_entries": 13981,
+  "source_empty_entries": 22,
+  "missing": 0,
+  "preserved_entries": 30,
+  "codex_editorial_entries": 13951,
+  "remaining_semantic_review": 0,
+  "local_model_draft_entries": 0,
+  "structural_issues": 0,
+  "missing_hangul_glyphs": 0,
+  "existing_korean_used": false,
+  "game_launched": false,
+  "live_game_verified": false,
+  "human_reviewed": false,
+  "semantic_review": "All meaningful English/Korean pairs read and editorially checked by Codex; current source and Korean SHA-256 ledger verified. AI editorial review, not human or gameplay verification. See REVIEW-KO.md and SOURCE-NOTES-KO.md.",
+  "isolated_installer_tests_passed": true,
+  "overlay_stub_tests_passed": true,
+  "known_source_conflicts": [
+    "FH076 healing target eligibility versus zero healing",
+    "FH093 exclusive focus versus fallback target"
+  ],
+  "screen_verified": false,
+  "multiplayer_verified": false
+}

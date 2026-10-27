@@ -1,0 +1,22 @@
+name: 설치·제거 오류 제보
+description: 설치, 파일 확인 또는 제거 중 발생한 오류를 알려주세요.
+title: "[설치] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 패치 버전과 게임 빌드
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: 실행한 작업과 오류 메시지
+      description: Install/Verify/Uninstall 중 무엇을 실행했는지 적고 오류 메시지를 붙여주세요. 사용자 이름 등 개인정보는 지워주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 사용 환경
+      description: Windows 버전, 게임 설치 경로의 드라이브, 다른 모드 사용 여부를 적어주세요.
