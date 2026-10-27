@@ -8,7 +8,7 @@ Frosthaven의 영문을 기준으로 새로 옮긴 한국어 번역 패치입니
 
 [Releases에서 배포본 확인](https://github.com/wittch/frosthaven-korean-patch/releases)
 
-배포본이 아직 없다면 최초 업로드 준비 중입니다. 릴리스의 `GKfont-Frosthaven-0.1.2-alpha.zip`을 받으세요. GitHub가 자동으로 만드는 **Source code ZIP은 설치용 파일이 아닙니다.**
+릴리스의 `GKfont-Frosthaven-0.1.2-alpha.zip`을 받으세요. GitHub가 자동으로 만드는 **Source code ZIP은 설치용 파일이 아닙니다.**
 
 ## 설치
 
