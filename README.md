@@ -4,11 +4,13 @@ Frosthaven의 영문을 기준으로 새로 옮긴 한국어 번역 패치입니
 
 ## 다운로드
 
-현재 준비된 버전은 **0.1.2-alpha**, 지원 게임은 **Windows x64 Steam판 build 26217927**입니다.
+현재 배포 버전은 **0.1.3-alpha**, 지원 게임은 **Windows x64 Steam판 build 26217927**입니다.
+
+**0.1.2 이하 사용자는 업데이트하세요.** 설치 후에도 번역 플러그인이 비활성화되어 게임의 기존 한국어가 표시되던 오류를 수정했습니다. 게임 실행 재검증은 아직 수행하지 않았습니다.
 
 [Releases에서 배포본 확인](https://github.com/wittch/frosthaven-korean-patch/releases)
 
-릴리스의 `GKfont-Frosthaven-0.1.2-alpha.zip`을 받으세요. GitHub가 자동으로 만드는 **Source code ZIP은 설치용 파일이 아닙니다.**
+릴리스의 `GKfont-Frosthaven-0.1.3-alpha.zip`을 받으세요. GitHub가 자동으로 만드는 **Source code ZIP은 설치용 파일이 아닙니다.**
 
 ## 설치
 

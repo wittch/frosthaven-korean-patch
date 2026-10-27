@@ -3,13 +3,13 @@
 기존 번역이 어색해서, 영문을 기준으로 다시 옮긴 한국어 패치를 준비했습니다.
 이벤트·시나리오·퀘스트·아이템처럼 게임에서 익숙하게 쓰는 표현을 사용하고, 주요 용어를 통일하는 방향으로 만들었습니다.
 
-[b]버전:[/b] 0.1.2-alpha
+[b]버전:[/b] 0.1.3-alpha
 [b]지원:[/b] Windows x64 Steam판, build 26217927
 [b]대상:[/b] 게임 내 I2Languages 카탈로그 14,003개 항목. 빈 문구·기술 약어·개발진 이름 등은 구분하여 처리했습니다.
 
 [h2]다운로드[/h2]
-ZIP: https://github.com/wittch/frosthaven-korean-patch/releases/download/v0.1.2-alpha/GKfont-Frosthaven-0.1.2-alpha.zip
-SHA-256: https://github.com/wittch/frosthaven-korean-patch/releases/download/v0.1.2-alpha/GKfont-Frosthaven-0.1.2-alpha.zip.sha256
+ZIP: https://github.com/wittch/frosthaven-korean-patch/releases/download/v0.1.3-alpha/GKfont-Frosthaven-0.1.3-alpha.zip
+SHA-256: https://github.com/wittch/frosthaven-korean-patch/releases/download/v0.1.3-alpha/GKfont-Frosthaven-0.1.3-alpha.zip.sha256
 
 [h2]설치와 제거[/h2]
 1. 게임을 종료하고 ZIP의 압축을 모두 해제합니다.

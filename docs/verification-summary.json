@@ -19,7 +19,9 @@
     "only Korean values change",
     "missing Korean language leaves source unchanged",
     "UTF-8 and multiline data round trip",
-    "malformed TSV record rejection"
+    "malformed TSV record rejection",
+    "internal static source registration lookup",
+    "exact translation overload lookup"
   ],
   "hangul_syllables_in_tmp_font": 11172,
   "source_and_korean_hash_review_current": true,
